@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28436277263",
+    "project_id": "ferdi-da708",
+    "storage_bucket": "ferdi-da708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28436277263:android:b521239d66a1e9e0e25b7a",
+        "android_client_info": {
+          "package_name": "com.example.ferdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28436277263-on9ff1i8mdv0s2m6sncn16mlvcg1t8m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyo4ZeV7sB-QKLpU-OLA5IHYudu2oV9t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28436277263-on9ff1i8mdv0s2m6sncn16mlvcg1t8m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
